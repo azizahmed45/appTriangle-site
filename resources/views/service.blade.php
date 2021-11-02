@@ -60,7 +60,7 @@
 
                             </ul>
 
-                            <a class="btn btn-sm btn btn-outline-dark readmore" href="microsoft.html">Read More</a>
+                            <a class="btn btn-sm btn btn-outline-dark readmore" href="{{ route('microsoft') }}">Read More</a>
                         </div>
 
 
@@ -90,7 +90,7 @@
 
                             </ul>
 
-                            <a class="btn btn-sm btn btn-outline-dark readmore" href="microsoft.html">Read More</a>
+                            <a class="btn btn-sm btn btn-outline-dark readmore" href="{{ route('microsoft') }}">Read More</a>
                         </div>
 
 
@@ -119,7 +119,7 @@
 
                             </ul>
 
-                            <a class="btn btn-sm btn btn-outline-dark readmore" href="ssl.html">Read More</a>
+                            <a class="btn btn-sm btn btn-outline-dark readmore" href="{{ route('ssl') }}">Read More</a>
                         </div>
 
 
@@ -150,7 +150,7 @@
 
                             </ul>
 
-                            <a class="btn btn-sm btn btn-outline-dark readmore" href="trend_micro.html">Read More</a>
+                            <a class="btn btn-sm btn btn-outline-dark readmore" href="{{ route('trend-micro') }}">Read More</a>
                         </div>
 
 
@@ -178,7 +178,7 @@
 
                             </ul>
 
-                            <a class="btn btn-sm btn btn-outline-dark readmore" href="manage_engines.html">Read More</a>
+                            <a class="btn btn-sm btn btn-outline-dark readmore" href="{{ route('kaspersky') }}">Read More</a>
                         </div>
 
 
@@ -207,7 +207,7 @@
 
                             </ul>
 
-                            <a class="btn btn-sm btn btn-outline-dark readmore" href="support_service.html">Read
+                            <a class="btn btn-sm btn btn-outline-dark readmore" href="{{ route('support-service') }}">Read
                                 More</a>
                         </div>
 
@@ -221,6 +221,8 @@
             </div> <!-- End row -->
         </div> <!-- End container -->
     </section> <!-- End section -->
+
+
 
 
 

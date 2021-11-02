@@ -66,7 +66,7 @@ Fixed Navigation
         <!-- main nav -->
         <nav class="navbar navbar-expand-lg navbar-light">
             <!-- logo -->
-            <a class="navbar-brand logo" href="index.html">
+            <a class="navbar-brand logo" href="{{ route('home') }}">
                 <img class="logo-default" src="{{ asset('assets/images/apptriangle.png') }}" alt="logo" width="200px"/>
                 <img class="logo-white" src="{{ asset('assets/images/apptriangle.png') }}" alt="logo" width="200px"/>
             </a>
