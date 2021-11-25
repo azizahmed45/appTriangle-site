@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="714bd585-79c6-4b5a-adf6-a408e52a3825" name="Default Changelist" comment="">
+    <list default="true" id="714bd585-79c6-4b5a-adf6-a408e52a3825" name="Default Changelist" comment="Link updated">
+      <change afterPath="$PROJECT_DIR$/resources/views/single-post.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layout/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layout/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/service.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/service.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/portfolio.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/portfolio.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,14 +179,44 @@
       <updated>1635502585841</updated>
       <workItem from="1635502586878" duration="8756000" />
       <workItem from="1635565628861" duration="150000" />
-      <workItem from="1635871253187" duration="1813000" />
+      <workItem from="1635871253187" duration="1847000" />
+      <workItem from="1636013910216" duration="70000" />
+      <workItem from="1637824499558" duration="1388000" />
     </task>
+    <task id="LOCAL-00001" summary="Link updated">
+      <created>1635876106520</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635876106521</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Link updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Link updated" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1637824572260">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1637824572260" />
     <state x="834" y="418" key="Github.ShareDialog" timestamp="1635511906336">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -176,6 +225,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="717" y="225" key="Github.UntrackedFilesDialog/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1635511922219" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1635876108540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.304.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1635876108540" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1635872122301">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

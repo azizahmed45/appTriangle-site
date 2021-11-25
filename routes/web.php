@@ -68,3 +68,7 @@ Route::get('/support-service', function () {
 Route::get('/ssl', function () {
     return view('ssl');
 })->name('ssl');
+
+Route::get('/single-post', function () {
+    return view('single-post');
+})->name('single-post');
